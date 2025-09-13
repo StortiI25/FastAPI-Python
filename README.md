@@ -51,7 +51,7 @@ Aprender a desenvolver uma API REST completa utilizando o framework **FastAPI**,
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/SEU-USUARIO/fastapi-curso.git
+   git clone https://github.com/StortiI25/FastAPI-Python.git
    cd fastapi-curso
 Crie e ative um ambiente virtual:
 
